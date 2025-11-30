@@ -2,7 +2,7 @@
 
 This project predicts the likelihood of loan default using Logistic Regression. It includes steps from exploratory data analysis to model training, helping financial institutions assess credit risk effectively.
 
-🔹 Project Structure
+🔹 Project Structure(yo)
 
 EDA.ipynb → Exploratory Data Analysis
 
